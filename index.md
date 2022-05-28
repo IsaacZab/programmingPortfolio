@@ -15,7 +15,7 @@ they then input the dimensions and the program
 
 calculates the volume and surface area.
 
-![alt text](https://github.com/IsaacZab/programmingPortfolio/blob/main/Images/shapeTester.PNG)
+![shapeTester](https://github.com/IsaacZab/programmingPortfolio/blob/main/Images/shapeTester.PNG)
  
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/main/SRC/shapeTester)
 
@@ -25,7 +25,7 @@ calculates the volume and surface area.
 
 Functional calculator app using processing.
 
-![alt text](https://github.com/IsaacZab/programmingPortfolio/blob/main/Images/Calculator.PNG)
+![Calculator](https://github.com/IsaacZab/programmingPortfolio/blob/main/Images/Calculator.PNG)
 
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/main/SRC/shapeTester)
 
