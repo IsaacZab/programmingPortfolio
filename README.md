@@ -4,3 +4,5 @@
  Isaac Zabriskie
  
  isaaczabriskie@gmail.com
+ 
+ # Certified in c++, and Processing
