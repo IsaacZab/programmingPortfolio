@@ -15,7 +15,7 @@ they then input the dimensions and the program
 
 calculates the volume and surface area.
 
-![shapeTester](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/shapeTester.PNG)
+![shapeTester](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/shapeTester.PNG?raw=true)
  
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/main/SRC/shapeTester)
 
@@ -25,7 +25,7 @@ calculates the volume and surface area.
 
 Functional calculator app using processing.
 
-![Calculator](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/Calculator.PNG)
+![Calculator](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/Calculator.PNG?raw=true)
 
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/main/SRC/shapeTester)
 
@@ -41,7 +41,7 @@ Source code for project here. [here](https://github.com/IsaacZab/programmingPort
 
  Screensaver application made in processing
 
-![ScreenSaver](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/ScreenSaver.PNG)
+![ScreenSaver](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/ScreenSaver.PNG?raw=true)
 
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/gh-pages/src/screenSaver)
 
@@ -49,9 +49,9 @@ Source code for project here. [here](https://github.com/IsaacZab/programmingPort
 
 Hang man game on the command line made in c++
 
-![StartScreen](https://github.com/IsaacZab/HangMan/blob/main/images/hangManpic1.PNG)
+![StartScreen](https://github.com/IsaacZab/HangMan/blob/main/images/hangManpic1.PNG?raw=true)
 
-![GamePlay](https://github.com/IsaacZab/HangMan/blob/main/images/pic2.PNG)
+![GamePlay](https://github.com/IsaacZab/HangMan/blob/main/images/pic2.PNG?raw=true)
 
 [Runnable game](https://replit.com/@ISAACZABRISKIE/Main#Main.cpp)
 
