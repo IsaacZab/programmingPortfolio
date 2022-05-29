@@ -29,7 +29,7 @@ Functional calculator app using processing.
 
 [Source Code](https://github.com/IsaacZab/programmingPortfolio/tree/main/SRC/shapeTester)
 
-### SpaceGame
+## SpaceGame
 
 An OOP space shooter game made in processing Winter 2021
 
@@ -37,9 +37,9 @@ An OOP space shooter game made in processing Winter 2021
 
 Source code for project here. [here](https://github.com/IsaacZab/programmingPortfolio/tree/gh-pages/src/SpaceGame)
 
-### Screen Saver App
+## Screen Saver App
 
-# Screensaver application made in processing
+ Screensaver application made in processing
 
 ![ScreenSaver](https://github.com/IsaacZab/programmingPortfolio/blob/gh-pages/images/ScreenSaver.PNG)
 
